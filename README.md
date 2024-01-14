@@ -1,6 +1,5 @@
 # Welcome to Degla's GitHub Playground 🚀
 
-Hello there! 👋 I'm Anouer Kassaa, a passionate Full Stack Developer on a journey to turn caffeine into code ☕💻.
 
 
 <!--
