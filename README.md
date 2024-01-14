@@ -2,11 +2,6 @@
 
 Hello there! 👋 I'm Anouer Kassaa, a passionate Full Stack Developer on a journey to turn caffeine into code ☕💻.
 
-## 🙌 Acknowledgments
-
-Special thanks to the coding gods, Stack Overflow wizards, and the countless cups of coffee that fuel my coding escapades.
-
-Feel free to explore, fork, and star away! Happy coding! 🚀✨
 
 <!--
 **anouerK/anouerK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
