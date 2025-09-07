@@ -64,17 +64,3 @@
 </a>
 </details>
 
-<!-- TODO: Add cv download link -->
-
-<details open>
-  <summary> <b>Connect With Me</b>: </summary>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoueramin.kassaa@esprit.tn)  
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anouerkassaa/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anouerK)  
-
-</details>
-
-<p align="center">
-<img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
-</p>
